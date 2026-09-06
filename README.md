@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workshop 01: Web Development Basics
 
 Web Development 2 – Full Stack  
@@ -201,3 +202,7 @@ This starter package includes:
 5. **SOLUTIONS.md** - Example solutions for instructors/students who get stuck
 
 Good luck and have fun!  🚀
+=======
+# workshop1_web-developement-HTML
+practic the basic github
+>>>>>>> ed73bcda00a7705cd035815aa8710673c6e9daf7
